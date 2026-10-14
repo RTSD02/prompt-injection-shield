@@ -1,0 +1,8 @@
+pandas
+scikit-learn
+datasets
+matplotlib
+joblib
+streamlit
+fastapi
+uvicorn
